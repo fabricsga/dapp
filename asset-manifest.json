@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/wave/static/css/main.776d89f0.chunk.css",
+    "main.js": "/wave/static/js/main.f3a22e2a.chunk.js",
+    "runtime-main.js": "/wave/static/js/runtime-main.68dfc33c.js",
+    "static/js/2.988bc893.chunk.js": "/wave/static/js/2.988bc893.chunk.js",
+    "static/css/3.2bece1bc.chunk.css": "/wave/static/css/3.2bece1bc.chunk.css",
+    "static/js/3.86ee33bd.chunk.js": "/wave/static/js/3.86ee33bd.chunk.js",
+    "static/css/4.b9e36d7e.chunk.css": "/wave/static/css/4.b9e36d7e.chunk.css",
+    "static/js/4.f75e92d1.chunk.js": "/wave/static/js/4.f75e92d1.chunk.js",
+    "static/css/5.e04049cd.chunk.css": "/wave/static/css/5.e04049cd.chunk.css",
+    "static/js/5.9149140d.chunk.js": "/wave/static/js/5.9149140d.chunk.js",
+    "index.html": "/wave/index.html",
+    "static/js/2.988bc893.chunk.js.LICENSE.txt": "/wave/static/js/2.988bc893.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/wave/static/media/D-DINExp.277fee92.ttf",
+    "static/media/index.scss": "/wave/static/media/ring.a2c19193.png",
+    "static/media/ball_disabled.f41943da.png": "/wave/static/media/ball_disabled.f41943da.png",
+    "static/media/home_banner.89bb2a2c.jpg": "/wave/static/media/home_banner.89bb2a2c.jpg",
+    "static/media/mapping_fuel_en.86d5d041.png": "/wave/static/media/mapping_fuel_en.86d5d041.png",
+    "static/media/welcome.911c1b04.png": "/wave/static/media/welcome.911c1b04.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68dfc33c.js",
+    "static/js/2.988bc893.chunk.js",
+    "static/css/main.776d89f0.chunk.css",
+    "static/js/main.f3a22e2a.chunk.js"
+  ]
+}
