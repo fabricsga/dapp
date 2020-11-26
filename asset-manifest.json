@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/css/main.405994a3.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/js/main.f3a22e2a.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/js/runtime-main.b5911d6e.js",
-    "static/js/2.7ef5ee7c.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/js/2.7ef5ee7c.chunk.js",
-    "static/css/3.1be7c159.chunk.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/css/3.1be7c159.chunk.css",
-    "static/js/3.86ee33bd.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/js/3.86ee33bd.chunk.js",
-    "static/css/4.36ef558d.chunk.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/css/4.36ef558d.chunk.css",
-    "static/js/4.f75e92d1.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/js/4.f75e92d1.chunk.js",
-    "static/css/5.738af2c6.chunk.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/css/5.738af2c6.chunk.css",
-    "static/js/5.9149140d.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/js/5.9149140d.chunk.js",
-    "index.html": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/index.html",
-    "static/js/2.7ef5ee7c.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/js/2.7ef5ee7c.chunk.js.LICENSE.txt",
-    "static/media/global.scss": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/media/D-DINExp.277fee92.ttf",
-    "static/media/index.scss": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/media/ring.a2c19193.png",
-    "static/media/ball_disabled.f41943da.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/media/ball_disabled.f41943da.png",
-    "static/media/home_banner.89bb2a2c.jpg": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/media/home_banner.89bb2a2c.jpg",
-    "static/media/mapping_fuel_en.86d5d041.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/media/mapping_fuel_en.86d5d041.png",
-    "static/media/welcome.911c1b04.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.2/static/media/welcome.911c1b04.png"
+    "main.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/css/main.9d3e0125.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/js/main.33f00164.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/js/runtime-main.8e74706f.js",
+    "static/js/2.161d3202.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/js/2.161d3202.chunk.js",
+    "static/css/3.f196a853.chunk.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/css/3.f196a853.chunk.css",
+    "static/js/3.8325aba5.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/js/3.8325aba5.chunk.js",
+    "static/css/4.6e149e50.chunk.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/css/4.6e149e50.chunk.css",
+    "static/js/4.522670ec.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/js/4.522670ec.chunk.js",
+    "static/css/5.1a633cb9.chunk.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/css/5.1a633cb9.chunk.css",
+    "static/js/5.0ade3b62.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/js/5.0ade3b62.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/index.html",
+    "static/js/2.161d3202.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/js/2.161d3202.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/media/D-DINExp.277fee92.ttf",
+    "static/media/index.scss": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/media/ring.a2c19193.png",
+    "static/media/ball_disabled.f41943da.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/media/ball_disabled.f41943da.png",
+    "static/media/home_banner.89bb2a2c.jpg": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/media/home_banner.89bb2a2c.jpg",
+    "static/media/mapping_fuel_en.86d5d041.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/media/mapping_fuel_en.86d5d041.png",
+    "static/media/welcome.58632c08.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.3/static/media/welcome.58632c08.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5911d6e.js",
-    "static/js/2.7ef5ee7c.chunk.js",
-    "static/css/main.405994a3.chunk.css",
-    "static/js/main.f3a22e2a.chunk.js"
+    "static/js/runtime-main.8e74706f.js",
+    "static/js/2.161d3202.chunk.js",
+    "static/css/main.9d3e0125.chunk.css",
+    "static/js/main.33f00164.chunk.js"
   ]
 }
