@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/css/main.d7482e92.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/js/main.898b85c4.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/js/runtime-main.1b4bac20.js",
-    "static/js/2.49c2d4eb.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/js/2.49c2d4eb.chunk.js",
-    "static/css/3.d81d4b02.chunk.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/css/3.d81d4b02.chunk.css",
-    "static/js/3.38240fcf.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/js/3.38240fcf.chunk.js",
-    "static/css/4.901addb8.chunk.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/css/4.901addb8.chunk.css",
-    "static/js/4.0ed3fefe.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/js/4.0ed3fefe.chunk.js",
-    "static/css/5.7c58ba86.chunk.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/css/5.7c58ba86.chunk.css",
-    "static/js/5.5cf9ad32.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/js/5.5cf9ad32.chunk.js",
-    "index.html": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/index.html",
-    "static/js/2.49c2d4eb.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/js/2.49c2d4eb.chunk.js.LICENSE.txt",
-    "static/media/global.scss": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/media/D-DINExp.277fee92.ttf",
-    "static/media/index.scss": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/media/ring.a2c19193.png",
-    "static/media/ball_disabled.f41943da.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/media/ball_disabled.f41943da.png",
-    "static/media/home_banner.89bb2a2c.jpg": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/media/home_banner.89bb2a2c.jpg",
-    "static/media/mapping_fuel_en.86d5d041.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/media/mapping_fuel_en.86d5d041.png",
-    "static/media/snap_up_club_en.3045c925.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/media/snap_up_club_en.3045c925.png",
-    "static/media/welcome.9273aee0.jpg": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.12/static/media/welcome.9273aee0.jpg"
+    "main.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/css/main.b3b99380.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/js/main.1d5d0b91.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/js/runtime-main.87706ed1.js",
+    "static/js/2.9f68f4d3.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/js/2.9f68f4d3.chunk.js",
+    "static/css/3.27b2f983.chunk.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/css/3.27b2f983.chunk.css",
+    "static/js/3.223d8569.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/js/3.223d8569.chunk.js",
+    "static/css/4.74f2c1ce.chunk.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/css/4.74f2c1ce.chunk.css",
+    "static/js/4.b2215c90.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/js/4.b2215c90.chunk.js",
+    "static/css/5.8f8047e4.chunk.css": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/css/5.8f8047e4.chunk.css",
+    "static/js/5.c5dfa53a.chunk.js": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/js/5.c5dfa53a.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/index.html",
+    "static/js/2.9f68f4d3.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/js/2.9f68f4d3.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/media/D-DINExp.277fee92.ttf",
+    "static/media/index.scss": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/media/ring.a2c19193.png",
+    "static/media/ball_disabled.f41943da.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/media/ball_disabled.f41943da.png",
+    "static/media/home_video_bg.56a2cfa2.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/media/home_video_bg.56a2cfa2.png",
+    "static/media/mapping_fuel_en.86d5d041.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/media/mapping_fuel_en.86d5d041.png",
+    "static/media/snap_up_club_en.3045c925.png": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/media/snap_up_club_en.3045c925.png",
+    "static/media/welcome.9273aee0.jpg": "https://cdn.jsdelivr.net/gh/fabricsga/dapp@0.0.13/static/media/welcome.9273aee0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b4bac20.js",
-    "static/js/2.49c2d4eb.chunk.js",
-    "static/css/main.d7482e92.chunk.css",
-    "static/js/main.898b85c4.chunk.js"
+    "static/js/runtime-main.87706ed1.js",
+    "static/js/2.9f68f4d3.chunk.js",
+    "static/css/main.b3b99380.chunk.css",
+    "static/js/main.1d5d0b91.chunk.js"
   ]
 }
